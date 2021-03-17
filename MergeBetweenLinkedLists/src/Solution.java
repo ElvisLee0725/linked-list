@@ -6,7 +6,7 @@
 
 class Solution {
     public static void main(String[] args) {
-        
+
     }
     public ListNode mergeInBetween(ListNode list1, int a, int b, ListNode list2) {
         ListNode aPrev = list1;
